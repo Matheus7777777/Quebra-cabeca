@@ -1,0 +1,234 @@
+coorden17 17+ 1=18
+
+coorden18 18-1=17
+
+coorden27 27-10=17
+
+coorden18 17+10=27
+
+coorden26 26+1=27
+
+coorden18 27-1=26
+
+coorden25 25+1=26
+
+coorden18 26=26-1=25
+
+coorden35 35-10=25
+
+coorden18 25+10=35
+
+coorden34 34+1=35
+
+coorden18 35-1=34
+
+coorden24 24+10=34
+
+coorden18 34-10=24
+
+coorden14 14+10=24
+
+coorden18 24-10=14
+
+coorden13 13+1=14
+
+coorden18 14-1=13
+
+coorden12 12+1=13
+
+coorden18 13-1=12
+
+coorden11 11+1=12
+
+coorden18 12-1=11
+
+coorden21 21-10=11
+
+coorden18 11+10=21
+
+coorden22 22-1=21
+
+coorden18 21+1=22
+
+coorden32 32-10=22
+
+coorden18 22+10=32
+
+coorden33 33-1=32
+
+coorden18 32+1=33
+
+coorden43 43-10=33
+
+coorden18 33+10=43
+
+coorden42 42+1=43
+
+coorden18 43-1=42
+
+coorden41 41+1=42
+
+coorden18 42-1=41
+
+coorden51 51-10=41
+
+coorden18 41+10=51
+
+coorden52 52-1=51
+
+coorden18 51+1=52
+
+coorden41 42+10=52
+
+coorden18 52-10=42
+
+coorden42 43-1=42
+
+coorden18 42+1=43
+
+coorden53 53-10=43
+
+coorden18 43+10=53
+
+coorden54 54-1=53
+
+coorden18 53+1=54
+
+coorden55 55-1=54
+
+coorden18 54+1=55
+
+coorden56 56-1=55
+
+coorden18 55+1=56
+
+coorden46 47+10=56
+
+coorden18 56-10=46
+
+coorden45 45+1=46
+
+coorden18 46-1=45
+
+coorden56 55-10=45
+
+coorden18 45+10=55
+
+coorden65 65-10=55
+
+coorden18 55+10=65
+
+coorden75 75-10=65
+
+coorden18 65+10=75
+
+coorden74 74+1=75
+
+coorden18 75-1=74
+
+coorden84 84-10=74
+
+coorden18 74+10=84
+
+coorden83 83+1=84
+
+coorden18 84-1=83
+
+coorden73 73+10=83
+
+coorden18 83-10=73
+
+coorden72 72+1=73
+
+coorden18 73-1=72
+
+coorden82 82-10=72
+
+coorden18 72+10=82
+
+coorden81 81+1=82
+
+coorden18 82-1=81
+
+coorden71 71+10=81
+
+coorden18 81-10=71
+
+coorden61 61+10=71
+
+coorden18 71-10=61
+
+coorden62 62-1=61
+
+coorden18 61+1=62
+
+coorden63 63-1=62
+
+coorden18 62+1=63
+
+coorden64 64-1=63
+
+coorden18 63+1=64
+
+coorden75 65-1=64
+
+coorden18 64+1=65
+
+coorden66 66-1=65
+
+coorden18 65+1=66
+
+coorden76 76-10=66
+
+coorden18 66+10=76
+
+coorden77 77-1=76
+
+coorden18 76+1=77
+
+coorden87 87-10=77
+
+coorden18 77+10=87
+
+coorden88 88-1=87
+
+coorden18 87+1=88
+
+coorden78 78+10=88
+
+coorden18 88-10=78
+
+coorden87 77+1=78
+
+coorden18 78-1=77
+
+coorden67 67+10=77
+
+coorden18 77-10=67
+
+coorden68 68-1=67
+
+coorden18 67+1=68
+
+coorden58 58+10=68
+
+coorden18 68-10=58
+
+coorden57 57+1=58
+
+coorden18 58-1=57
+
+coorden47 47+10=57
+
+coorden18 57-10=47
+
+coorden48 48-1=47
+
+coorden18 47+1=48
+
+coorden38 38+10=48
+
+coorden18 48-10=38
+
+
+
